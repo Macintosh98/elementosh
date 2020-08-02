@@ -1,7 +1,7 @@
 # elementosh-gtk
 
 elementosh-gtk light
-![First Screenshot]()
+![First Screenshot](https://raw.githubusercontent.com/Macintosh98/elementosh/master/preview/MacOS-Mojave-Ligth.png)
 
 
 To install themes :
