@@ -1,10 +1,12 @@
 # elementosh-gtk
 
 elementosh-gtk light
-![First Screenshot](https://raw.githubusercontent.com/Macintosh98/elementosh/master/preview/MacOS-Mojave-Ligth.png)
+![elementosh-gtk Screenshot](https://raw.githubusercontent.com/Macintosh98/elementosh/master/preview/1.png)
+![elementosh-gtk Screenshot](https://raw.githubusercontent.com/Macintosh98/elementosh/master/preview/2.png)
 
 elementosh-gtk dark
-![Second Screenshot](https://raw.githubusercontent.com/Macintosh98/elementosh/master/preview/MacOS-Mojave-Dark.png)
+![elementosh-gtk Screenshot](https://raw.githubusercontent.com/Macintosh98/elementosh/master/preview/3.png)
+![elementosh-gtk Screenshot](https://raw.githubusercontent.com/Macintosh98/elementosh/master/preview/4.png)
 
 To install themes :
 
