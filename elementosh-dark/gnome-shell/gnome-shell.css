@@ -576,7 +576,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 
 #panel .panel-corner:active, #panel .panel-corner:overview, #panel .panel-corner:focus { -panel-corner-border-color: #1f76e1; }
 
-#panel .panel-button { font-weight: bold; color: #ccc; -natural-hpadding: 12px; -minimum-hpadding: 6px; }
+#panel .panel-button { font-weight: bold; color: white; -natural-hpadding: 12px; -minimum-hpadding: 6px; }
 
 #panel .panel-button:hover { color: white; }
 
