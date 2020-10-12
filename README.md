@@ -18,4 +18,4 @@ To install themes :
 
 You can support this open source project by making a voluntary payment:
 
-The MacOS-3D theme is available for free. if you're enjoying the MacOS-3D theme, feel free to buy me a cofee :) https://www.paypal.com/paypalme/abhishekzambare/
+The elementosh-gtk theme is available for free. if you're enjoying the elementosh-gtk theme, feel free to buy me a cofee :) https://www.paypal.com/paypalme/abhishekzambare/
