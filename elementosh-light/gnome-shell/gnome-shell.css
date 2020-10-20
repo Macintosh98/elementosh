@@ -672,9 +672,9 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active { backg
 /* App Icons */
 .app-well-app .overview-icon, .grid-search-result .overview-icon { color: #fff; }
 
-.app-well-app:hover .overview-icon, .app-well-app:selected .overview-icon, .grid-search-result:hover .overview-icon, .grid-search-result:selected .overview-icon { background-color: rgba(255, 255, 255, 0.1); }
+.app-well-app:hover .overview-icon, .app-well-app:selected .overview-icon, .grid-search-result:hover .overview-icon, .grid-search-result:selected .overview-icon { background-color: rgba(255, 255, 255, 0); }
 
-.app-well-app:focus .overview-icon, .grid-search-result:focus .overview-icon { background-color: rgba(255, 255, 255, 0.3); }
+.app-well-app:focus .overview-icon, .grid-search-result:focus .overview-icon { background-color: rgba(255, 255, 255, 0); }
 
 .app-well-app:drop .overview-icon, .grid-search-result:drop .overview-icon { background-color: rgba(53, 132, 228, 0.85); }
 
