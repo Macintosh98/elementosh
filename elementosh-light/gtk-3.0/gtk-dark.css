@@ -180,6 +180,46 @@ label.h4, .emoji-picker box.vertical > label,
 .link,
 :link {
   color: mix(@accent_color, white, 0.33); }
+  .accent.red,
+  .link.red,
+  :link.red {
+    color: #f6706b; }
+  .accent.orange,
+  .link.orange,
+  :link.orange {
+    color: #f67f34; }
+  .accent.yellow,
+  .link.yellow,
+  :link.yellow {
+    color: #f9c440; }
+  .accent.green,
+  .link.green,
+  :link.green {
+    color: #68b723; }
+  .accent.blue,
+  .link.blue,
+  :link.blue {
+    color: #4da2f3; }
+  .accent.purple,
+  .link.purple,
+  :link.purple {
+    color: #b986ed; }
+  .accent.brown,
+  .link.brown,
+  :link.brown {
+    color: #ac9b89; }
+  .accent.mint,
+  .link.mint,
+  :link.mint {
+    color: #22b49b; }
+  .accent.pink,
+  .link.pink,
+  :link.pink {
+    color: #f774a4; }
+  .accent.slate,
+  .link.slate,
+  :link.slate {
+    color: #95a3ab; }
 
 .dim-label,
 :visited {
@@ -1887,5 +1927,5 @@ messagedialog {
     margin-bottom: 0.6666666677rem;
     margin-top: 1.3333333343rem; }
 
-    @import url("title-button.css");
+    @import url("title-buttons.css");
     
