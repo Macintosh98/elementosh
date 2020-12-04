@@ -176,6 +176,9 @@ label.h4, .emoji-picker box.vertical > label,
   font-weight: 500;
   font-size: 1.22em; }
 
+.small-label {
+  font-size: 0.85em; }
+
 .accent,
 .link,
 :link {
@@ -1467,7 +1470,7 @@ spinner {
   -gtk-icon-source: -gtk-icontheme("process-working-symbolic"); }
   spinner:checked {
     opacity: 0.8;
-    animation: spin 600ms linear infinite; }
+    animation: spin 600ms steps(12) infinite; }
     spinner:checked:disabled {
       opacity: 0.4; }
 
@@ -1979,7 +1982,8 @@ messagedialog {
     margin: 0.5833333343rem;
     margin-bottom: 0.6666666677rem;
     margin-top: 1.3333333343rem; }
+placessidebar.sidebar row.sidebar-row .sidebar-icon { padding: 2px; }
 decoration { border: 1px solid rgba(0, 0, 0, 0.2);border-radius: 0.500000001rem;box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2), 0 3px 4px rgba(0, 0, 0, 0.15), 0 3px 3px -3px rgba(0, 0, 0, 0.35); }
 .titlebar,headerbar { border-radius: 0.500000001rem;background-color: #e3e3e3;box-shadow: 1px 0 0 0 rgba(0, 0, 0, 0.2), -1px 0 0 0 rgba(0, 0, 0, 0.2), 0 -1px 0 0 rgba(0, 0, 0, 0.2), inset 0 1px 0 0 alpha(@highlight_color, 0.3), inset 1px 0 0 0 alpha(@highlight_color, 0.07), inset -1px 0 0 0 alpha(@highlight_color, 0.07); }
-.view{background-color: rgba(200, 200, 200, 0.5);}
+.view{background-color: rgba(225,225,225, 0.5);}
 @import url("title-button.css");
